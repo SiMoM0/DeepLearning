@@ -7,3 +7,11 @@ Implementation of the backpropagation algorithm for the perceptron and a two-lay
 Training for the handwritten digits dataset using softmax and cross entropy loss function.
 
 Notebook: [HW1](https://github.com/SiMoM0/DeepLearning/blob/master/HW1/HW1.ipynb)
+
+### Homework 2 - Optimize and Train Deep Models
+
+Text classification with Tensorflow and Keras on the AG News Subset, dealing with overfitting.
+
+Regularization methods as L1-norm, L2-norm, early stopping. Tuning of hyperparameters using model selection and Grid Search.
+
+Notebook : [HW2](https://github.com/SiMoM0/DeepLearning/blob/master/HW2/HW2.ipynb)

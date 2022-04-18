@@ -12,6 +12,14 @@ Notebook: [HW1](https://github.com/SiMoM0/DeepLearning/blob/master/HW1/HW1.ipynb
 
 Text classification with Tensorflow and Keras on the AG News Subset, dealing with overfitting.
 
-Regularization methods as L1-norm, L2-norm, early stopping. Tuning of hyperparameters using model selection and Grid Search.
+Regularization methods as L1-norm, L2-norm, early stopping. Tuning of hyper-parameters using model selection and Grid Search.
 
 Notebook : [HW2](https://github.com/SiMoM0/DeepLearning/blob/master/HW2/HW2.ipynb)
+
+### Homework 3 - Convolutional Neural Networks
+
+Development of a simple Convolutional Neural Network for image classification on the CIFAR-10 dataset.
+
+Use of Tensorflow and Keras for hyper-parameters selection to obtain the better models.
+
+Notebook : [HW3](https://github.com/SiMoM0/DeepLearning/blob/master/HW3/HW3.ipynb)

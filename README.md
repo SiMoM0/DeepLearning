@@ -20,6 +20,6 @@ Notebook : [HW2](https://github.com/SiMoM0/DeepLearning/blob/master/HW2/HW2.ipyn
 
 Development of a simple Convolutional Neural Network for image classification on the CIFAR-10 dataset.
 
-Use of Tensorflow and Keras for hyper-parameters selection to obtain the better models.
+Use of Tensorflow and Keras for hyper-parameters selection to obtain better models.
 
 Notebook : [HW3](https://github.com/SiMoM0/DeepLearning/blob/master/HW3/HW3.ipynb)

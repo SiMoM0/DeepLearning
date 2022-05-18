@@ -23,3 +23,11 @@ Development of a simple Convolutional Neural Network for image classification on
 Use of Tensorflow and Keras for hyper-parameters selection to obtain better models.
 
 Notebook : [HW3](https://github.com/SiMoM0/DeepLearning/blob/master/HW3/HW3.ipynb)
+
+### Homework 4 - Recurrent Neural Networks & Transformer
+
+Development of simples Recurrent Neural Networks for sentiment analysis using the IMDB dataset.
+
+Introduction and testing of the Transformer model and its parameters.
+
+Notebook : [HW4](https://github.com/SiMoM0/DeepLearning/blob/master/HW4/HW4.ipynb)

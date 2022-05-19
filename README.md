@@ -31,3 +31,11 @@ Development of simples Recurrent Neural Networks for sentiment analysis using th
 Introduction and testing of the Transformer model and its parameters.
 
 Notebook : [HW4](https://github.com/SiMoM0/DeepLearning/blob/master/HW4/HW4.ipynb)
+
+### Homework 5 - Autoencoders
+
+Comparison between Single Value Decomposition and different types of Autoencoders on CIFAR-10 dataset.
+
+Linear and non-Linear Autoencoders for sequences with the IMDB dataset.
+
+Notebook : [HW5](https://github.com/SiMoM0/DeepLearning/blob/master/HW5/HW5.ipynb)

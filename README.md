@@ -6,7 +6,7 @@ Implementation of the backpropagation algorithm for the perceptron and a two-lay
 
 Training for the handwritten digits dataset using softmax and cross entropy loss function.
 
-Notebook: [HW1](https://github.com/SiMoM0/DeepLearning/blob/master/HW1/HW1.ipynb) | Assessment: *to be evaluated*
+Notebook: [HW1](https://github.com/SiMoM0/DeepLearning/blob/master/HW1/HW1.ipynb) | Assessment: 100/100
 
 ### Homework 2 - Optimize and Train Deep Models
 
@@ -46,4 +46,4 @@ Development of Variational Autoencoders with the MNIST Dataset.
 
 Ad-Hoc layer and custom training step exploration.
 
-Notebook : [HW6](https://github.com/SiMoM0/DeepLearning/blob/master/HW6/HW6.ipynb) | Assessment: *to be evaluated*
+Notebook : [HW6](https://github.com/SiMoM0/DeepLearning/blob/master/HW6/HW6.ipynb) | Assessment: 100/100
